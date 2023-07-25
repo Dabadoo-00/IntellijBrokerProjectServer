@@ -3,7 +3,7 @@ package com.skills4testing;
 import java.util.Arrays;
 
 public class ShellSort {
-
+ /// Test two comment
     // Rearrange elements at each n/2, n/4, n/8, ... intervals
     void shellSort(int array[], int n) {
         for (int interval = n / 2; interval > 0; interval /= 2) {
