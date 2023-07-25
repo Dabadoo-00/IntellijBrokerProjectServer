@@ -32,4 +32,12 @@ public class ShellSort {
     public static void addSecondFunction(){
 
     }
+
+    public static void addSecondFunction2(){
+
+    }
+
+    public static void addSecondFunction3(){
+
+    }
 }
